@@ -1,5 +1,4 @@
-This GitHub repository contains files used by and explained in Wilson Mar's
-Git and GitHub course.
+This GitHub repository contains files for Git and GitHub.
 
 There are two editions of scripts in this repo.
 
@@ -37,5 +36,3 @@ so you can examine the impact of the whole sequence of commands.
 Additionally, diagrams (animated step-by-step in PowerPoint) have been prepared to illustrate the flow and sequence of commands.
 
 Enjoy!
-
-(Changed for class)
